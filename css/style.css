@@ -2,6 +2,7 @@
 
 :root {
   --blue: #01415b;
+  --yellow: #f2be22;
 }
 
 /* reset */
@@ -31,6 +32,10 @@ header {
 
 .navbar-brand {
   font-size: 2.5rem;
+}
+
+.nav-item a:hover {
+  color: var(--yellow);
 }
 
 #section__about {
