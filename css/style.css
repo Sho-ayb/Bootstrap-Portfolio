@@ -84,3 +84,9 @@ footer {
   padding: 4em 0 4em 0;
   background-color: var(--blue);
 }
+
+/* Contact.html  */
+
+#section__contact {
+  padding: 3em 0 3em 0;
+}
