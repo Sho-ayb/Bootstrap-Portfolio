@@ -14,4 +14,4 @@ This portfolio is now fully responsive and includes a Bootstrap Jumbotron that i
 
 ## Link to deployed site
 
-![Portfolio Site](https://sho-ayb.github.io/Bootstrap-Portfolio/)
+![Portfolio Site]("https://sho-ayb.github.io/Bootstrap-Portfolio/")
